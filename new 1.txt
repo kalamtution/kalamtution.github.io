@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ழகரம் தமிழ் மன்றம்</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" shrink-to-fit="no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- favicons -->
+	<link rel="stylesheet" href="ism/css/my-slider.css"/>
+<script src="ism/js/ism-2.2.min.js"></script>
+   <!-- <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-icon-180x180.png">-->
+    <link rel="icon" type="image/png" sizes="250x210"  href="images/favicons/tmlogo.png">
+   <!-- <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- favicons -->
+	<link rel="stylesheet" href="ism/css/my-slider.css"/>
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/custom-responsive-style.css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script type="text/javascript" src="script/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="script/all-plugins.js"></script>
+    <script type="text/javascript" src="script/plugin-active.js"></script>
+</head>
+<body data-spy="scroll" data-target=".main-navigation" data-offset="150">
+    <section id="MainContainer">
+        <!-- Header starts here -->
+        <header id="Header">
+            <nav class="main-navigation">
+                <div class="container clearfix">
+                    <div class="site-logo-wrap">
+                        <a class="logo" href="#"><height="12px"><img src="images/l.png" alt=" தமிழ் "></a>
+                    </div>
+                    <a href="javascript:void(0)" class="menu-trigger hidden-lg-up"><span>&nbsp;</span></a>
+                    <div class="main-menu hidden-md-down">
+                        <ul class="menu-list">
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#HeroBanner">முகப்பு</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#Services">நிகழ்வுகள்</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#About">பற்றி</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#Portfolio">காட்சி கூடம்</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#ContactUs">தொடர்புக்கு</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mobile-menu hidden-lg-up">
+                    <ul class="mobile-menu-list">
+                       <li><a class="nav-link" href="javascript:void(0)" data-target="#HeroBanner">முகப்பு</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#Services">நிகழ்வுகள்</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#About">பற்றி</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#Portfolio">காட்சி கூடம்</a></li>
+                            <li><a class="nav-link" href="javascript:void(0)" data-target="#ContactUs">தொடர்புக்கு</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!-- Header ends here -->
+        <!-- Banner starts here -->
+        <section id="HeroBanner">
+            <div class="hero-content">
+                <h1>ழகரம் தமிழ் மன்றம்</</h1>
+                <p>கொங்கு பொறியியல் கல்லூரி</p>
+                <a href="#Services" class="hero-cta">Get Started</a>
+            </div>
+        </section>
+        <!-- Banner ends here -->
+        <!-- Services section starts here -->
+        <section id="Services">
+            <div class="container">
+                <div class="block-heading">
+                    <h2>Services</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div>
+				<section id="Portfolio">
+            <div class="container">
+                <div class="block-heading">
+                   
+                </div>
+                <div class="portfolio-wrapper clearfix">
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/1.jpg">
+                    <img src="images/1.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                        <span>
+                           <h5 class="p-title">Title</h5>
+                            <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/p-two.jpg">
+                    <img src="images/p-two.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                        <span>
+                           <h5 class="p-title">Title</h5>
+                           <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/p-three.jpg">
+                    <img src="images/p-three.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                       <span>
+                           <h5 class="p-title">Title</h5>
+                           <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/p-four.jpg">
+                    <img src="images/p-four.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                        <span>
+                           <h5 class="p-title">Title</h5>
+                           <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/p-five.jpg">
+                    <img src="images/p-five.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                        <span>
+                           <h5 class="p-title">Title</h5>
+                           <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                    <a class="each-portfolio" data-fancybox="gallery" href="images/p-six.jpg">
+                    <img src="images/p-six.jpg" alt="p-one">
+                    <div class="hover-cont-wrap">
+                        <span>
+                           <h5 class="p-title">Title</h5>
+                           <div class="p-desc">
+                                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+                                <div class="icon-div"><i class="fa fa-search-plus" aria-hidden="true"></i></div>
+                            </div>
+                        </span>
+                    </div>
+                   </a>
+                </div>
+            </div>
+        </section>
+                <div class="services-wrapper">
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-desktop" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    </div>
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    </div>
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-paper-plane" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    </div>
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-university" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    </div>
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-camera-retro" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    </div>
+                    <div class="each-service">
+                        <div class="service-icon"><i class="fa fa-shopping-bag" aria-hidden="true"></i></div>
+                        <h5 class="service-title">LOREM IPSUM</h5>
+                        <p class="service-description">Lorem ipsum</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Portfolio section ends here -->
+        <!-- Services section ends here -->
+        <!-- About Us section starts here -->
+        <section id="About">
+            <div class="container">
+                <div class="about-wrapper">
+                    <h2 style="color:#996515">எங்களைப்  பற்றி ...</h2>
+                    <p><h4>கல் தோன்றி மண் தோன்றா காலத்தே, வாளோடு முன் தோன்றிய மூத்த குடியின் பிறப்பு மொழி. 
+	  தமிழ் காலச்சக்கரத்தின் சுழற்சிக்கு தக்க ஈடு கொடுத்து குயவன் கொண்ட களிமண் போல் மாற்றம் கண்டு வரும் அற்புத மொழி. 
+	  ஒளிர் பிம்பங்கள் கண்ணாடியை சிதைக்காமல், அதில் தம்மை தாமே பிரதிபலிப்பது போல், நாம் எண்ணியவற்றை எண்ணியவாறே எதிருள்ளோருக்கு புரியவைக்கும் ஆற்றல் கொண்டது  பைந்தமிழ்மொழி. 
+	  வேண்டியதை கொடுக்கும் கடவுளுக்கு பல கோயில்கள் உண்டு. அந்த கடவுளை ஆராதிக்க உதவும் தமிழுக்கு ஒரு கோவிலாக 2011-12 இல் நிறு வப்பட்டது எங்கள் ழகரம் தமிழ் மன்றம்.
+	  எல்லா பெரிய வெற்றிகளுக்கும் ஒரு சிறிய தொடக்கமே முன்னோடி. அது போல் எங்கள் கொங்கு கல்லூரியில் தமிழ் தாகம் கிளப்ப எடுத்து வைக்கப்பட்ட முதல் அடி இந்த ழகரம் தமிழ் மன்றம்.
+	  ஆயிரமாயிரம் ஆண்டுகள் ஆனபோதிலும் ஆதிதிராவிடரின் தமிழே நம் நெஞ்சத்தின் ஆட்சிமொழி என்பதுதான் அழிக்க முடியாத உண்மை . </p>
+            </div>
+        </section>
+        <!-- About Us section ends here -->
+        <!-- Portfolio section starts here -->
+        <section id="testimonial">
+          <div class="testimonial-wrap">
+          <div class="container">
+            <div class="block-heading">
+              <div id="g" class='container'>
+			 
+<div class="ism-slider" data-transition_type="zoom" data-play_type="once-rewind" id="my-slider">
+  <ol>
+    <li>
+      <img src="ta1.jpg">
+      <div class="ism-caption ism-caption-0"></div>
+    </li>
+    <li>
+      <img src="ta2.jpg">
+      <div class="ism-caption ism-caption-0"></div>
+    </li>
+    <li>
+      <img src="ta7.jpg">
+      <div class="ism-caption ism-caption-0"></div>
+    </li>
+   
+    <li>
+      <img src="ta6.jpeg">
+      <div class="ism-caption ism-caption-0"></div>
+    </li>
+  </ol>
+</div>
+        </div>
+        </section>
+        <!-- Contact us section starts here -->
+        <section id="ContactUs">
+            <div class="container contact-container">
+                <h3 class="contact-title">Get In Touch</h3>
+                <div class="contact-outer-wrapper">
+                    <div class="address-block">
+                        <p class="add-title">Contact Details</p>
+                        <div class="c-detail">
+                            <span class="c-icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span> <span class="c-info"> 
+							<h4><pre>ழகரம் தமிழ் மன்றம் <br></pre>
+							<pre>கொங்கு பொறியியல் கல்லூரி</pre><h4>
+                        <b><pre>மு ச அருண்   8870146370</pre>
+						    <pre>வி விக்னேஷ்  9500513782</pre></span>
+							<pre>tamilmandramkec@gmail.com</pre>
+                        </div>
+						
+                        <div class="c-detail">
+                            <span class="c-icon"><i class="fa fa-envelope" aria-hidden="true"></i></span> <span class="c-info"><h5> </span>
+                        </div>
+                    </div>
+                    <div class="form-wrap">
+                        <p class="add-title">Send Us Message</p>
+                        <form>
+                            <div class="fname floating-label">
+                                <input type="text" class="floating-input" name="full name" />
+                                <label for="title">Full Name</label>
+                            </div>
+                            <div class="email floating-label">
+                                <input type="email" class="floating-input" name="email" />
+                                <label for="email">Email</label>
+                            </div>
+                            <div class="contact floating-label">
+                                <input type="tel" class="floating-input" name="contact" />
+                                <label for="email">Contact</label>
+                            </div>
+                            <div class="company floating-label">
+                                <input type="text" class="floating-input" name="company" />
+                                <label for="email">Company</label>
+                            </div>
+                            <div class="user-msg floating-label">
+                                <textarea class="floating-input" name="user message"></textarea>
+                                <label for="message" class="msg-label">Your Message</label>
+                            </div>
+                            <div class="submit-btn">
+                                <button type="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact us section ends here -->
+        <!-- Footer section starts here -->
+        <footer id="Footer">
+            <div class="container">
+                <div class="social-share">
+                    <ul>
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+                <div class="footer-logo-wrap">
+                    Design Studio &copy; 2018. Designed by <a href="https://www.position2.com/">Position2</a>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer section ends here -->
+    </section>
+</body>
+
+</html>
